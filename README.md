@@ -1,2 +1,2 @@
 # get-privet 
-gjg
+gjg добавил описание
